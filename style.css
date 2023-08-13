@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+}
+.first_part{
+    width: 40%;
+    float: left;
+    margin: 2% 4%;
+}
+.first_part img{
+    width: 100%;
+}
